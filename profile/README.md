@@ -1,4 +1,4 @@
-# SimpleBlog-SpringBoot项目介绍
+# SimpleBlog项目介绍
 
 ---
 
