@@ -2,6 +2,10 @@
 
 ---
 
+## 仓库：
+SimpleBlog-SpringBoot 后端
+SimpleBlog-Fronted    前端
+
 ## 概述：
 
 SimpleBlog 是一个现代化的博客平台，旨在为用户提供简洁、高效的博客创建与管理体验。本项目结合了后端Spring Boot 2框架的强大功能和前端Vue 3框架的响应式设计，构建了一个全栈式的Web应用。除了提供传统博客系统的标准特性外，SimpleBlog还集成了AI特色功能，以提升用户体验并简化内容创作过程。
