@@ -3,9 +3,12 @@
 ---
 
 ## 仓库：
-SimpleBlog-SpringBoot 后端
+SimpleBlog-SpringBoot   后端
 
-SimpleBlog-Fronted    前端
+SimpleBlog-Fronted      前端
+
+SimpleBlog-Fronted-New  前端（NEW）
+
 
 ## 概述：
 
